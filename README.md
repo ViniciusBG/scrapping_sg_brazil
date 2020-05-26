@@ -1,3 +1,5 @@
 # Scrapping ads for Sleeping_giants_brasil
 
-##### With this script we can automate clicking ads in jornaldacidadeonline.com.br and create a dictionary with names and ads links to send them to @sleeping_giants_br
+##### This script was created to help @slpng_giants_pt with their fight against the spread of fake news in Brazil. It was designed to automate clicks in ads from www.jornaldacidadeonline.com.br, collect compinies' names and sites from these ads and concatenate them into a spreadsheet.
+
+Feel free to use it. 
