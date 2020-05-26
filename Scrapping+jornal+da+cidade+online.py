@@ -62,7 +62,8 @@ for i in range(1,10):
 
 # In[52]:
     
-ads = pd.DataFrame(empresas)
-ads
+ads = pd.DataFrame.from_dict(empresas)
+ads = ads.transpose()
+ads = ads.drop_duplicates(subset='Nome',keep='first')
 
 
